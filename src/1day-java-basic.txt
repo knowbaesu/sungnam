@@ -1,0 +1,9 @@
+**전체 목자**
+Java SE                    
+Database & JDBC
+Web Programming (html/ javascript / css)
+severlet / JSP - Design Pattern(MVC, Singleton..)
+Ajax, JSON
+Agile / Git / UML / ERD / Cloud (AWS EC2)
+Spring IOC(DI) / AOP / MVC / Mybatis / Thymeleaf / JPA / React
+Docker / Jenkins

@@ -1,0 +1,34 @@
+IDE 
+JDK
+JRE
+java runtime enviroment
+JVM
+Java Class와 Object와의 관계
+Object Oriented
+Agile
+
+
+
+
+**1day**
+- jdk 1.8 설치 / 시스템 환경 변수 편집 -> java path 추가
+- IDE 중 Eclipse 설치 : 환경설정 -> jdk 1.8 개발환경 설정
+- 자바 기본 클래스 작성하고 컴파일 후 실행
+- 간단한 자바 클래스들을 작성하고 분석하기
+- 팀 내에서 자기 소개하기
+-  step2 
+아까 찾아보 우의 용어들을 토론하기
+
+
+
+**2day **
+- JDK / JRE / JVM
+-컴파일과 실행
+- 1day의 step2 클래스들을 분석하기
+- Class 와 Obejcet
+- OOP (Object - Oriendted Programming)
+- attribute(variable) opreation (method)
+- Object 생성
+- 기본문법정리 (class , variable, method)
+- Encapsulation
+- getter / setter

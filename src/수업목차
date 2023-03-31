@@ -1,0 +1,58 @@
+**전체 목자**
+Java SE                    
+Database & JDBC
+Web Programming (html/ javascript / css)
+severlet / JSP - Design Pattern(MVC, Singleton..)
+Ajax, JSON
+Agile / Git / UML / ERD / Cloud (AWS EC2) / MSA
+Spring IOC(DI) / AOP / MVC / REST/ Mybatis / Thymeleaf / JPA / React
+Docker / Jenkins
+
+** Java SE 수업목차 **
+환경설정
+
+Java 기본 동작원리 
+
+OOP ( 객체 지향 프로그래밍 , Object , Class , attribute , operation )
+
+Java 기초 문법 ( variable 변수 , method 기능 , constructor 생성자 ) 
+
+객체 지향 주요 개념 : 응집도 cohesion 와 결합도 coupling , Encapsulation 
+
+Java Data Type 
+
+객체 초기화 단계 
+
+Java Memory 구조 ( Stack , Heap , Meta Space 영역 ) 
+
+제어문 ( 조건문 if , switch 과 반복문 for, while, do while )
+
+UML - Class Diagram , relationship 
+
+배열 Array 
+
+mini project
+
+상속 Inheritance 
+
+오버로딩과 오버라이딩 
+
+다형성 Polymorphism
+
+static, final, abstract , interface 
+
+mini project 
+
+String/StringBuffer/StringBuilder
+
+Collection ( Set , List , Map , Generic 등 ) 
+
+mini project
+
+IO 
+
+Thread 
+
+Network 
+
+mini project 
